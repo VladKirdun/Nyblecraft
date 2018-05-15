@@ -5,5 +5,3 @@
   <li>Build a project (npm run build)</li>
   <li>Open the file <b>index.html</b> in the browser</li>
 </ul>
-<br/>
-<p>Project reference: <a href="http://e29317fs.beget.tech/">http://e29317fs.beget.tech/</a></p>
